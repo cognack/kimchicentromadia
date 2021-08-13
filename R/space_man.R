@@ -1,12 +1,11 @@
 ##  New function
 
-#' Title A little about me
+
+#' Title Spaceman comes to destry earth
 #'
-#' some cools description detail about me including my name, birth year, and favorite animal.
-#'
-#' @param my_name a character containing your name
-#' @param birth_year A number containing your birth year
-#' @param fav_animal a character containing your favorite animal species
+#' @param planet insert a character name on some planet
+#' @param future_year insert a numeric data of some time in the future
+#' @param fav_burrito insert a character describing your favorite burrito
 #'
 #' @return
 #' @export
