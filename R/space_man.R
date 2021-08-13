@@ -12,9 +12,9 @@
 #' @export
 #'
 #' @examples
-about_me <- function(my_name, birth_year, fav_animal) {
+space_man <- function(planet, future_year, fav_burrito) {
 
-  print(paste("Hello, my name is", my_name, ", I was born in", birth_year, "and my favorite animal is a", fav_animal))
+  print(paste("Hello, I was born on", planet, ", in the year", future_year, "and I have come to destry Earth. I will grant you one", fav_burrito, "before I destory Earth"))
 
 }
 
