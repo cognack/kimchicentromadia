@@ -13,7 +13,7 @@
 #' @examples
 space_man <- function(planet, future_year, fav_burrito) {
 
-  print(paste("Hello, I was born on", planet, ", in the year", future_year, "and I have come to destry Earth. I will grant you one", fav_burrito, "before I destory Earth"))
+  print(paste("Hello, I was born on", planet, ", in the year", future_year, "and I have come to destry Earth. I will grant you one", fav_burrito, "before I destory Earth."))
 
 }
 
